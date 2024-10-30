@@ -1,5 +1,5 @@
 # Nethaji Achha
-A Responsive Free One Page Portfolio Website template
+A Responsive Portfolio Website template
 
 
 
